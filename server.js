@@ -7,7 +7,7 @@ const PORT = 3000;
 
 // --- IMPORTANT ---
 // Make sure this is your actual API key.
-const GEMINI_API_KEY = "AIzaSyCITJ-4Vqxls3eMSf5RgxwosIZomqLliyk";
+const GEMINI_API_KEY = "Add Your Gemini API";
 // Corrected the model name in the URL from gemini-pro to gemini-1.5-flash-latest
 const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${GEMINI_API_KEY}`;
 
