@@ -1,5 +1,5 @@
 # AI Quote Generator - Web Technologies Lab Project
- 
+
 ## 1. Project Overview
 
 This project is a dynamic, full-stack web application designed to generate unique and inspiring quotes using the power of Google's Gemini generative AI. The application provides users with two primary functions:
